@@ -5,7 +5,14 @@ Find the project requirements here: [RSS feed reader in terminal](https://www.co
 
 ## Tech/framework used
 Built with Python
+## Run This Locally
+To run this code locally:
 
+`sudo git clone https://github.com/debjit-mandal/rss-feed-reader`
+
+`cd rss-feed-reader`
+
+`python main.py`
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
